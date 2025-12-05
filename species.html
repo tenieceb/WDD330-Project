@@ -1,11 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Critter Connection</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <script type="module" src="js/main.js"></script>
 </head>
 <body>
-    
+  <header>
+    <header class="divider" id="dy-header">
+      <!-- Dynamic header -->
+    </header>
+
+
+    <!-- LEFT SIDE CONTENT -->
+    <section class="details-left">
+
+        <h2 id="species-common-name">[Species Common Name]</h2>
+        <p id="species-scientific-name" class="scientific-name">[Species Scientific Name]</p>
+
+        <div class="species-header">
+            <div class="species-image">
+                <img src="lion-placeholder.png" alt="Species Image" />
+            </div>
+
+            <div class="status-box">
+                <span id="species-status">Endangered</span>
+            </div>
+        </div>
+
+        <div class="info-block">
+            <h3>Habitat & Diet</h3>
+            <p id="habitat-diet">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+            </p>
+        </div>
+
+        <div class="info-block">
+            <h3>Lifespan & Facts</h3>
+            <p id="lifespan-facts">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+            </p>
+        </div>
+
+        <div class="info-block">
+            <h3>Conservation Efforts</h3>
+            <p id="conservation-efforts">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+            </p>
+        </div>
+
+    </section>
+
+    <!-- RIGHT SIDE CONTENT -->
+    <aside class="details-right">
+
+        <!-- MAP -->
+        <section class="map-section">
+            <h3>Occurrence Map</h3>
+            <div class="map-placeholder">
+                <img src="worldmap-placeholder.png" alt="Occurrence Map" />
+            </div>
+        </section>
+
+        <!-- SIMILAR ANIMALS -->
+        <section class="similar-section">
+            <h3>Similar Critters</h3>
+
+            <div class="similar-list">
+
+                <div class="similar-item">
+                    <img src="placeholder.png" alt="" />
+                    <span>Red Panda</span>
+                </div>
+
+                <div class="similar-item">
+                    <img src="placeholder.png" alt="" />
+                    <span>Fossa</span>
+                </div>
+
+                <div class="similar-item">
+                    <img src="placeholder.png" alt="" />
+                    <span>Clouded Leopard</span>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- UPVOTE BUTTON -->
+        <button class="upvote-btn">
+            ❤️ Up Vote this Animal!
+        </button>
+
+    </aside>
+
+</main>
+    <footer id="dy-footer">
+    <!-- Dynamic footer -->
+    </footer>
 </body>
 </html>

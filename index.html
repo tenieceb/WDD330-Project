@@ -17,17 +17,58 @@
       <!-- Dynamic header -->
     </header>
 
-  <main>
-    <section id="spotlight">
-      <h2>Conservation Spotlight</h2>
-      <div class="spotlight-card"></div>
-    </section>
 
-    <section id="species-list">
-      <h2>Species List</h2>
-      <div class="species-grid"></div>
+<main class="container">
+
+    <!-- Sidebar Filters -->
+    <aside class="filters">
+        <h3>Filter Options</h3>
+
+        <div class="filter-group">
+            <h4>Conservation Status</h4>
+            <label><input type="radio" name="status"> Endangered</label>
+            <label><input type="radio" name="status"> Vulnerable</label>
+            <label><input type="radio" name="status"> Least Concern</label>
+        </div>
+
+        <div class="filter-group">
+            <h4>Species Type</h4>
+            <label><input type="radio" name="type"> Mammals</label>
+            <label><input type="radio" name="type"> Reptiles</label>
+            <label><input type="radio" name="type"> Fish</label>
+        </div>
+
+        <div class="filter-group">
+            <h4>Sort By</h4>
+            <label><input type="radio" name="sort"> Alphabetical</label>
+            <label><input type="radio" name="sort"> Popularity</label>
+        </div>
+    </aside>
+
+
+     <section class="home-main">
+
+        <!-- CONSERVATION SPOTLIGHT -->
+        <section class="spotlight-section">
+            <h2>Conservation Spotlight</h2>
+
+            <div id="spotlight-card" class="spotlight-card">
+                <!-- Filled dynamically by JS -->
+            </div>
+        </section>
+
+        <!-- ALL ANIMALS LIST -->
+        <section class="animal-list-section">
+            <h2>All Animals</h2>
+
+            <div id="animal-grid" class="animal-grid">
+                <!-- Animal Cards Injected Dynamically -->
+            </div>
+        </section>
+
     </section>
-  </main>
+</main>
+
 
     <footer id="dy-footer">
       <!-- Dynamic footer -->
