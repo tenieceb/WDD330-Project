@@ -9,6 +9,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "species": "Panthera leo"
     }
   },
   {
@@ -21,6 +30,15 @@
       "author": "Anup Shah",
       "source": "https://commons.wikimedia.org/wiki/File:Tiger.50.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "species": "Panthera tigris"
     }
   },
   {
@@ -33,6 +51,15 @@
       "author": "Mas3cf",
       "source": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "species": "Canis lupus"
     }
   },
   {
@@ -45,6 +72,15 @@
       "author": "ClaudiaTen",
       "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "species": "Vulpes vulpes"
     }
   },
   {
@@ -57,6 +93,15 @@
       "author": "Charles J. Sharp ",
       "source": "https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_female_2.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Acinonyx",
+      "species": "Acinonyx jubatus"
     }
   },
   {
@@ -69,6 +114,15 @@
       "author": "David J. Stang",
       "source": "https://commons.wikimedia.org/wiki/File:African_Bush_Elephant.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "species": "Loxodonta africana"
     }
   },
   {
@@ -81,6 +135,15 @@
       "author": "Yathin S Krishnappa",
       "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "species": "Elephas maximus"
     }
   },
   {
@@ -93,6 +156,15 @@
       "author": "Miroslav Duchacek",
       "source": "https://commons.wikimedia.org/wiki/File:Giraffe_standing.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Giraffidae",
+      "genus": "Giraffa",
+      "species": "Giraffa camelopardalis"
     }
   },
   {
@@ -105,6 +177,15 @@
       "author": "Muhammad Mahdi Karim",
       "source": "https://commons.wikimedia.org/wiki/File:Plains_Zebra_Equus_quagga.jpg",
       "license": "GFDL 1.2"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Perissodactyla",
+      "family": "Equidae",
+      "genus": "Equus",
+      "species": "Equus quagga"
     }
   },
   {
@@ -112,7 +193,16 @@
     "scientific_name": "Hippopotamus amphibius",
     "image_link": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hippopotamus_in_South_Africa_adjusted.jpg",
     "type": "Mammal",
-    "status": "Vulnerable"
+    "status": "Vulnerable",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Hippopotamidae",
+      "genus": "Hippopotamus",
+      "species": "Hippopotamus amphibius"
+    }
   },
   {
     "name": "Gorilla",
@@ -124,6 +214,15 @@
       "author": "Thomas Fuhrmann",
       "source": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_23.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Hominidae",
+      "genus": "Gorilla",
+      "species": "Gorilla beringei"
     }
   },
   {
@@ -136,6 +235,15 @@
       "author": "Thomas Lersch",
       "source": "https://commons.wikimedia.org/wiki/File:Schimpanse_Zoo_Leipzig.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Hominidae",
+      "genus": "Pan",
+      "species": "Pan troglodytes"
     }
   },
   {
@@ -148,6 +256,15 @@
       "author": "Theo Kruse Burgers' Zoo",
       "source": "https://commons.wikimedia.org/wiki/File:Ring-tailed_lemur,_Lemur_catta.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Lemuridae",
+      "genus": "Lemur",
+      "species": "Lemur catta"
     }
   },
   {
@@ -160,6 +277,15 @@
       "author": "Diliff",
       "source": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Diprotodontia",
+      "family": "Phascolarctidae",
+      "genus": "Phascolarctos",
+      "species": "Phascolarctos cinereus"
     }
   },
   {
@@ -172,6 +298,15 @@
       "author": "Mark Wagner",
       "source": "https://commons.wikimedia.org/wiki/File:Kangaroo_Australia_01_11_2008_-_retouch.JPG",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Diprotodontia",
+      "family": "Macropodidae",
+      "genus": "Macropus",
+      "species": "Macropus giganteus"
     }
   },
   {
@@ -184,6 +319,15 @@
       "author": "Alan Wilson",
       "source": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ursus",
+      "species": "Ursus maritimus"
     }
   },
   {
@@ -196,6 +340,15 @@
       "author": "I, Malene",
       "source": "https://commons.wikimedia.org/wiki/File:Brown_bear_(Ursus_arctos_arctos)_running.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ursus",
+      "species": "Ursus arctos"
     }
   },
   {
@@ -208,6 +361,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:185_Giant_anteater_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Pilosa",
+      "family": "Myrmecophagidae",
+      "genus": "Myrmecophaga",
+      "species": "Myrmecophaga tridactyla"
     }
   },
   {
@@ -220,6 +382,15 @@
       "author": "ESV- Eduard Solà Vásquez",
       "source": "https://commons.wikimedia.org/wiki/File:Bradypus_variegatus_BCN.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Pilosa",
+      "family": "Bradypodidae",
+      "genus": "Bradypus",
+      "species": "Bradypus variegatus"
     }
   },
   {
@@ -232,9 +403,17 @@
       "author": "ksyfancy",
       "source": "https://commons.wikimedia.org/wiki/File:Suricata_suricatta1.jpg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Herpestidae",
+      "genus": "Suricata",
+      "species": "Suricata suricatta"
     }
   },
-
   {
     "name": "Bald Eagle",
     "scientific_name": "Haliaeetus leucocephalus",
@@ -245,6 +424,15 @@
       "author": "Saffron Blaze",
       "source": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Portrait.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Haliaeetus",
+      "species": "Haliaeetus leucocephalus"
     }
   },
   {
@@ -257,6 +445,15 @@
       "author": "Christopher Watson",
       "source": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_good_-_Christopher_Watson.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Falconiformes",
+      "family": "Falconidae",
+      "genus": "Falco",
+      "species": "Falco peregrinus"
     }
   },
   {
@@ -269,6 +466,15 @@
       "author": "Carlos Delgado",
       "source": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_sibiricus_-_01.JPG",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Strigiformes",
+      "family": "Strigidae",
+      "genus": "Bubo",
+      "species": "Bubo virginianus"
     }
   },
   {
@@ -281,6 +487,15 @@
       "author": "Judy Gallagher",
       "source": "https://commons.wikimedia.org/wiki/File:Snowy_Owl_-_Bubo_scandiacus,_Boundary_Bay,_British_Columbia_-_6704936907.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Strigiformes",
+      "family": "Strigidae",
+      "genus": "Bubo",
+      "species": "Bubo scandiacus"
     }
   },
   {
@@ -293,6 +508,15 @@
       "author": "Quartl",
       "source": "https://commons.wikimedia.org/wiki/File:Ara_macao_qtl1.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Psittaciformes",
+      "family": "Psittacidae",
+      "genus": "Ara",
+      "species": "Ara macao"
     }
   },
   {
@@ -305,6 +529,15 @@
       "author": "Samuel Blanc",
       "source": "https://commons.wikimedia.org/wiki/File:Emperor_Penguin_Manchot_empereur.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Aptenodytes",
+      "species": "Aptenodytes forsteri"
     }
   },
   {
@@ -317,9 +550,17 @@
       "author": "Charles J. Sharp ",
       "source": "https://commons.wikimedia.org/wiki/File:Greater_flamingo_(Phoenicopterus_roseus)_Bahrain.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Phoenicopteriformes",
+      "family": "Phoenicopteridae",
+      "genus": "Phoenicopterus",
+      "species": "Phoenicopterus roseus"
     }
   },
-
   {
     "name": "Saltwater Crocodile",
     "scientific_name": "Crocodylus porosus",
@@ -330,6 +571,15 @@
       "author": "Bernard Dupont",
       "source": "https://commons.wikimedia.org/wiki/File:Saltwater_Crocodile_(Crocodylus_porosus)_(10106331165).jpg",
       "license": "CC BY-SA 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodylia",
+      "family": "Crocodylidae",
+      "genus": "Crocodylus",
+      "species": "Crocodylus porosus"
     }
   },
   {
@@ -342,6 +592,15 @@
       "author": "Jakub Halun",
       "source": "https://commons.wikimedia.org/wiki/File:Varanus_komodoensis,_Komodo_Island,_Indonesia,_20250822_1332_2808.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Squamata",
+      "order": "Squamata",
+      "family": "Varanidae",
+      "genus": "Varanus",
+      "species": "Varanus komodoensis"
     }
   },
   {
@@ -354,6 +613,15 @@
       "author": "Cayambe",
       "source": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_01.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Squamata",
+      "order": "Squamata",
+      "family": "Iguanidae",
+      "genus": "Iguana",
+      "species": "Iguana iguana"
     }
   },
   {
@@ -366,6 +634,15 @@
       "author": "Mokele at English Wikipedia",
       "source": "https://commons.wikimedia.org/wiki/File:Ball_python_lucy.JPG",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Pythonidae",
+      "genus": "Python",
+      "species": "Python regius"
     }
   },
   {
@@ -378,6 +655,15 @@
       "author": "Alexander Vasenin",
       "source": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_at_Gilli_Banta.JPG",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Pomacentridae",
+      "genus": "Amphiprion",
+      "species": "Amphiprion ocellaris"
     }
   },
   {
@@ -390,6 +676,15 @@
       "author": "Terry Goss",
       "source": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Carcharodon",
+      "species": "Carcharodon carcharias"
     }
   },
   {
@@ -402,6 +697,15 @@
       "author": "Robert Pittman",
       "source": "https://commons.wikimedia.org/wiki/File:Killerwhales_jumping.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Orcinus",
+      "species": "Orcinus orca"
     }
   },
   {
@@ -414,9 +718,17 @@
       "author": "NASA",
       "source": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Tursiops",
+      "species": "Tursiops truncatus"
     }
   },
-
   {
     "name": "Octopus",
     "scientific_name": "Octopus vulgaris",
@@ -427,6 +739,15 @@
       "author": "Albert Kok at Dutch Wikipedia",
       "source": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Mollusca",
+      "class": "Cephalopoda",
+      "order": "Octopoda",
+      "family": "Octopodidae",
+      "genus": "Octopus",
+      "species": "Octopus vulgaris"
     }
   },
   {
@@ -439,9 +760,17 @@
       "author": "Michael L. Baird",
       "source": "https://commons.wikimedia.org/wiki/File:Emperor_scorpion_or_Imperial_scorpion_(Pandinus_imperator).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Scorpiones",
+      "family": "Scorpionidae",
+      "genus": "Pandinus",
+      "species": "Pandinus imperator"
     }
   },
-  
   {
     "name": "Red Kangaroo",
     "scientific_name": "Osphranter rufus",
@@ -452,6 +781,15 @@
       "author": "PotMart196",
       "source": "https://commons.wikimedia.org/wiki/File:Red_Kangaroos_at_Sturt_National_Park_NSW.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Diprotodontia",
+      "family": "Macropodidae",
+      "genus": "Macropus",
+      "species": "Macropus rufus"
     }
   },
   {
@@ -464,6 +802,15 @@
       "author": "ImagePerson",
       "source": "https://commons.wikimedia.org/wiki/File:Arctic_fox_(Vulpes_lagopus)_2434.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "species": "Vulpes lagopus"
     }
   },
   {
@@ -476,6 +823,15 @@
       "author": "USDA Forest Service",
       "source": "https://commons.wikimedia.org/wiki/File:Moose_superior.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Cervidae",
+      "genus": "Alces",
+      "species": "Alces alces"
     }
   },
   {
@@ -488,6 +844,15 @@
       "author": "Paul Danese",
       "source": "https://commons.wikimedia.org/wiki/File:20250130_white_tailed_deer_cedar_hill_cemetery_PD204859.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Cervidae",
+      "genus": "Odocoileus",
+      "species": "Odocoileus virginianus"
     }
   },
   {
@@ -500,6 +865,15 @@
       "author": "Jack Dykinga",
       "source": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "genus": "Bison",
+      "species": "Bison bison"
     }
   },
   {
@@ -512,6 +886,15 @@
       "author": "Jjron",
       "source": "https://commons.wikimedia.org/wiki/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Camelidae",
+      "genus": "Camelus",
+      "species": "Camelus dromedarius"
     }
   },
   {
@@ -524,6 +907,15 @@
       "author": "Richard Bart",
       "source": "https://commons.wikimedia.org/wiki/File:Wild_Boar_Habbitat_2.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Suidae",
+      "genus": "Sus",
+      "species": "Sus scrofa"
     }
   },
   {
@@ -536,6 +928,15 @@
       "author": "Charles J. Sharp",
       "source": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Hyaenidae",
+      "genus": "Crocuta",
+      "species": "Crocuta crocuta"
     }
   },
   {
@@ -548,6 +949,15 @@
       "author": "gusjer",
       "source": "https://commons.wikimedia.org/wiki/File:Phacochoerus_africanus_sounder.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Suidae",
+      "genus": "Phacochoerus",
+      "species": "Phacochoerus africanus"
     }
   },
   {
@@ -560,9 +970,17 @@
       "author": "Mwcolgan8",
       "source": "https://commons.wikimedia.org/wiki/File:Armadillo2.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cingulata",
+      "family": "Dasypodidae",
+      "genus": "Dasypus",
+      "species": "Dasypus novemcinctus"
     }
   },
-
   {
     "name": "Emu",
     "scientific_name": "Dromaius novaehollandiae",
@@ -573,6 +991,15 @@
       "author": "Szilas",
       "source": "https://commons.wikimedia.org/wiki/File:2008-06-21_Artis_09_Dromaius_novaehollandiae.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Casuariiformes",
+      "family": "Dromaiidae",
+      "genus": "Dromaius",
+      "species": "Dromaius novaehollandiae"
     }
   },
   {
@@ -585,6 +1012,15 @@
       "author": "H. Zell",
       "source": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_R%C3%A9serve_africaine_de_Sigean_05.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Struthioniformes",
+      "family": "Struthionidae",
+      "genus": "Struthio",
+      "species": "Struthio camelus"
     }
   },
   {
@@ -597,6 +1033,15 @@
       "author": "Jatin Sindhu",
       "source": "https://commons.wikimedia.org/wiki/File:Peacock_Plumage.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Galliformes",
+      "family": "Phasianidae",
+      "genus": "Pavo",
+      "species": "Pavo cristatus"
     }
   },
   {
@@ -609,6 +1054,15 @@
       "author": "Dimus",
       "source": "https://commons.wikimedia.org/wiki/File:Wild_turkey_eastern_us.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Galliformes",
+      "family": "Phasianidae",
+      "genus": "Meleagris",
+      "species": "Meleagris gallopavo"
     }
   },
   {
@@ -621,6 +1075,15 @@
       "source": "https://commons.wikimedia.org/wiki/File:Branta_canadensis,_Frederiksberg_Have,_Denmark,_20220617_1627_6918.jpg",
       "author": "Jakub Halun",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Branta",
+      "species": "Branta canadensis"
     }
   },
   {
@@ -633,6 +1096,15 @@
       "author": "Yerpo",
       "source": "https://commons.wikimedia.org/wiki/File:Mute_swan_Vrhnika.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Cygnus",
+      "species": "Cygnus olor"
     }
   },
   {
@@ -645,9 +1117,17 @@
       "author": "I, Luc Viatour",
       "source": "https://commons.wikimedia.org/wiki/File:Ara_ararauna_Luc_Viatour.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Psittaciformes",
+      "family": "Psittacidae",
+      "genus": "Ara",
+      "species": "Ara ararauna"
     }
   },
-
   {
     "name": "Toucan",
     "scientific_name": "Ramphastos toco",
@@ -658,6 +1138,15 @@
       "author": "Chris Parfitt from East Grinstead, England",
       "source": "https://commons.wikimedia.org/wiki/File:Ramphastos_toco_-Birdworld,_Farnham,_Surrey,_England-8a.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Piciformes",
+      "family": "Ramphastidae",
+      "genus": "Ramphastos",
+      "species": "Ramphastos toco"
     }
   },
   {
@@ -670,6 +1159,15 @@
       "author": "Vivek Puliyeri",
       "source": "https://commons.wikimedia.org/wiki/File:House_Sparrow_(Passer_domesticus).jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Passeriformes",
+      "family": "Passeridae",
+      "genus": "Passer",
+      "species": "Passer domesticus"
     }
   },
   {
@@ -682,9 +1180,17 @@
       "author": "Mdf",
       "source": "https://commons.wikimedia.org/wiki/File:Cyanocitta-cristata-004.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Passeriformes",
+      "family": "Corvidae",
+      "genus": "Cyanocitta",
+      "species": "Cyanocitta cristata"
     }
   },
-
   {
     "name": "Alligator",
     "scientific_name": "Alligator mississippiensis",
@@ -692,9 +1198,18 @@
     "status": "Least Concern",
     "image_link": "https://upload.wikimedia.org/wikipedia/commons/0/03/American_Alligator.jpg",
     "image_attribution": {
-      "author":"Postdlf",
-      "source": "https://commons.wikimedia.org/wiki/File:American_Alligator.jpg", 
+      "author": "Postdlf",
+      "source": "https://commons.wikimedia.org/wiki/File:American_Alligator.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Crocodylia",
+      "order": "Crocodilia",
+      "family": "Alligatoridae",
+      "genus": "Alligator",
+      "species": "Alligator mississippiensis"
     }
   },
   {
@@ -707,6 +1222,15 @@
       "author": "Franz Xaver",
       "source": "https://commons.wikimedia.org/wiki/File:Testudo_graeca_ibera_1.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Testudines",
+      "order": "Testudines",
+      "family": "Testudinidae",
+      "genus": "Testudo",
+      "species": "Testudo graeca"
     }
   },
   {
@@ -719,6 +1243,15 @@
       "author": "MathKnight",
       "source": "https://commons.wikimedia.org/wiki/File:Chamaeleonidae-01.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Squamata",
+      "order": "Squamata",
+      "family": "Chamaeleonidae",
+      "genus": "Chamaeleo",
+      "species": "Chamaeleo chamaeleon"
     }
   },
   {
@@ -731,6 +1264,15 @@
       "author": "Oleg Kosterin",
       "source": "https://commons.wikimedia.org/wiki/File:Gekko_gecko_106845652.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Squamata",
+      "order": "Squamata",
+      "family": "Gekkonidae",
+      "genus": "Gekko",
+      "species": "Gekko gecko"
     }
   },
   {
@@ -743,9 +1285,17 @@
       "author": "Sujit Kumar",
       "source": "https://commons.wikimedia.org/wiki/File:King_Cobra.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Elapidae",
+      "genus": "Ophiophagus",
+      "species": "Ophiophagus hannah"
     }
   },
-
   {
     "name": "Goldfish",
     "scientific_name": "Carassius auratus",
@@ -756,6 +1306,15 @@
       "author": "Heptagon assumed(based on copyright claims",
       "source": "https://commons.wikimedia.org/wiki/File:Goldfish3.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Cypriniformes",
+      "family": "Cyprinidae",
+      "genus": "Carassius",
+      "species": "Carassius auratus"
     }
   },
   {
@@ -768,6 +1327,15 @@
       "author": "Bernard Ladenthin",
       "source": "https://commons.wikimedia.org/wiki/File:Siamese_fighting_fish_(Betta_splendens)_female_orange.JPG",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Osphronemidae",
+      "genus": "Betta",
+      "species": "Betta splendens"
     }
   },
   {
@@ -780,6 +1348,15 @@
       "author": "I, Luc Viatour",
       "source": "https://commons.wikimedia.org/wiki/File:Aurelia_aurita_(Cnidaria)_Luc_Viatour.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Ulmaridae",
+      "genus": "Aurelia",
+      "species": "Aurelia aurita"
     }
   },
   {
@@ -791,7 +1368,16 @@
     "image_attribution": {
       "author": "Hans Hillewaert",
       "source": "https://commons.wikimedia.org/wiki/File:Asterias_rubens.jpg",
-      "license": "©" 
+      "license": "©"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Forcipulatida",
+      "family": "Asteriidae",
+      "genus": "Asterias",
+      "species": "Asterias rubens"
     }
   },
   {
@@ -804,6 +1390,15 @@
       "author": "Roberto Rodriguez",
       "source": "https://commons.wikimedia.org/wiki/File:Bugre_americanu.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Nephropidae",
+      "genus": "Homarus",
+      "species": "Homarus americanus"
     }
   },
   {
@@ -816,9 +1411,17 @@
       "author": "Biopics Dan Boone, Honguyenseo, Bernard Picton, Biopics, Philippe Boujon, Splette, Nosferattus, Rushenb",
       "source": "https://commons.wikimedia.org/wiki/File:Brachyura_montage.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Brachyura",
+      "genus": "Cancer",
+      "species": "Cancer pagurus"
     }
   },
-
   {
     "name": "Butterfly",
     "scientific_name": "Danaus plexippus",
@@ -829,6 +1432,15 @@
       "author": "Derek Ramsey",
       "source": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg",
       "license": "©"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Nymphalidae",
+      "genus": "Danaus",
+      "species": "Danaus plexippus"
     }
   },
   {
@@ -841,6 +1453,15 @@
       "author": "Andreas Trepte",
       "source": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis",
+      "species": "Apis mellifera"
     }
   },
   {
@@ -853,6 +1474,15 @@
       "author": "Bernard Ladenthin",
       "source": "https://commons.wikimedia.org/wiki/File:2019-07-22_Coccinellidae_1.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Coleoptera",
+      "family": "Coccinellidae",
+      "genus": "Coccinella",
+      "species": "Coccinella septempunctata"
     }
   },
   {
@@ -865,6 +1495,15 @@
       "author": "Samantha Henneke from Seagrove, NC USA",
       "source": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Formicidae",
+      "genus": "Formica",
+      "species": "Formica rufa"
     }
   },
   {
@@ -877,9 +1516,17 @@
       "author": "André Karwath",
       "source": "https://commons.wikimedia.org/wiki/File:Sympetrum_flaveolum_-_side_(aka).jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Odonata",
+      "family": "Libellulidae",
+      "genus": "Sympetrum",
+      "species": "Sympetrum flaveolum"
     }
   },
-
   {
     "name": "Frog",
     "scientific_name": "Lithobates clamitans",
@@ -890,6 +1537,15 @@
       "author": "Derek Ramsey",
       "source": "https://commons.wikimedia.org/wiki/File:Green_Frog_Rana_clamitans_Facing_Left_3008px.jpg",
       "license": "GFDL 1.2"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Ranidae",
+      "genus": "Lithobates",
+      "species": "Lithobates clamitans"
     }
   },
   {
@@ -902,9 +1558,17 @@
       "author": "Joshua Lutz",
       "source": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_1.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Bufonidae",
+      "genus": "Bufo",
+      "species": "Bufo bufo"
     }
   },
-
   {
     "name": "Musk Ox",
     "scientific_name": "Ovibos moschatus",
@@ -915,6 +1579,15 @@
       "author": "Quartl",
       "source": "https://commons.wikimedia.org/wiki/File:Ovibos_moschatus_qtl1.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "genus": "Ovibos",
+      "species": "Ovibos moschatus"
     }
   },
   {
@@ -927,6 +1600,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Leopardus",
+      "species": "Leopardus pardalis"
     }
   },
   {
@@ -939,6 +1621,15 @@
       "author": "Wayne McLean",
       "source": "https://commons.wikimedia.org/wiki/File:Tasdevil_large.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Dasyuromorphia",
+      "family": "Dasyuridae",
+      "genus": "Sarcophilus",
+      "species": "Sarcophilus harrisii"
     }
   },
   {
@@ -951,6 +1642,15 @@
       "author": "www.southafrica.net",
       "source": "https://commons.wikimedia.org/wiki/File:Parahyaena_brunnea_5.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Hyaenidae",
+      "genus": "Hyaena",
+      "species": "Hyaena brunnea"
     }
   },
   {
@@ -963,6 +1663,15 @@
       "author": "Stephan Sprinz",
       "source": "https://commons.wikimedia.org/wiki/File:Arctic_Hare_(Lepus_arcticus)_02.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Lagomorpha",
+      "family": "Leporidae",
+      "genus": "Lepus",
+      "species": "Lepus arcticus"
     }
   },
   {
@@ -975,6 +1684,15 @@
       "author": "Gary T. Leavens",
       "source": "https://commons.wikimedia.org/wiki/File:Sagittarius_serpentarius_376735149.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Sagittariidae",
+      "genus": "Sagittarius",
+      "species": "Sagittarius serpentarius"
     }
   },
   {
@@ -987,6 +1705,15 @@
       "author": "Krzysztof Golik",
       "source": "https://commons.wikimedia.org/wiki/File:Nestor_notabilis_in_Arthur%27s_Pass_NP_04.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Psittaciformes",
+      "family": "Psittacidae",
+      "genus": "Nestor",
+      "species": "Nestor notabilis"
     }
   },
   {
@@ -999,6 +1726,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:016_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Aquila",
+      "species": "Aquila chrysaetos"
     }
   },
   {
@@ -1011,6 +1747,15 @@
       "author": "Hans Hillewaert",
       "source": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex.jpg",
       "license": "© Hans Hillewaert"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Pelecaniformes",
+      "family": "Balaenicipitidae",
+      "genus": "Balaeniceps",
+      "species": "Balaeniceps rex"
     }
   },
   {
@@ -1023,9 +1768,17 @@
       "author": "Charles J. Sharp",
       "source": "https://commons.wikimedia.org/wiki/File:Gharial_(Gavialis_gangeticus)_female_and_juvenile.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodylia",
+      "family": "Gavialidae",
+      "genus": "Gavialis",
+      "species": "Gavialis gangeticus"
     }
   },
-
   {
     "name": "Frilled Lizard",
     "scientific_name": "Chlamydosaurus kingii",
@@ -1036,6 +1789,15 @@
       "author": "Matt from Melbourne, Australia",
       "source": "https://commons.wikimedia.org/wiki/File:Frill-necked_Lizard_(Chlamydosaurus_kingii)_(8692607976).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Agamidae",
+      "genus": "Chlamydosaurus",
+      "species": "Chlamydosaurus kingii"
     }
   },
   {
@@ -1048,6 +1810,15 @@
       "author": "Brandon Bourassa",
       "source": "https://commons.wikimedia.org/wiki/File:Phrynosoma_cornutum_293505046.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Phrynosomatidae",
+      "genus": "Phrynosoma",
+      "species": "Phrynosoma cornutum"
     }
   },
   {
@@ -1060,6 +1831,15 @@
       "author": "Bernard Gagnon",
       "source": "https://commons.wikimedia.org/wiki/File:Lepidochelys_olivacea.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Lepidochelys",
+      "species": "Lepidochelys olivacea"
     }
   },
   {
@@ -1072,6 +1852,15 @@
       "author": "Pmalkowski Przemysław Malkowski",
       "source": "https://commons.wikimedia.org/wiki/File:Axolotl_1.jpg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Caudata",
+      "family": "Ambystomatidae",
+      "genus": "Ambystoma",
+      "species": "Ambystoma mexicanum"
     }
   },
   {
@@ -1084,6 +1873,15 @@
       "author": "Holger Krisp",
       "source": "https://commons.wikimedia.org/wiki/File:Dendrobates-tinctorius-Epipedobates-tricolor.jpg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Dendrobatidae",
+      "genus": "Dendrobates",
+      "species": "Dendrobates tinctorius"
     }
   },
   {
@@ -1096,6 +1894,15 @@
       "author": "Carey James Balboa",
       "source": "https://commons.wikimedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Phyllomedusidae",
+      "genus": "Agalychnis",
+      "species": "Agalychnis callidryas"
     }
   },
   {
@@ -1108,6 +1915,15 @@
       "author": "Ryan Somma",
       "source": "https://commons.wikimedia.org/wiki/File:Goliath_Frog.jpg",
       "license": "CC BY-SA 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Conrauidae",
+      "genus": "Conraua",
+      "species": "Conraua goliath"
     }
   },
   {
@@ -1120,6 +1936,15 @@
       "author": "Krüger",
       "source": "https://commons.wikimedia.org/wiki/File:Huso_huso.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Acipenseriformes",
+      "family": "Acipenseridae",
+      "genus": "Huso",
+      "species": "Huso huso"
     }
   },
   {
@@ -1132,6 +1957,15 @@
       "author": "Stan Shebs",
       "source": "https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_3.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Gymnotiformes",
+      "family": "Gymnotidae",
+      "genus": "Electrophorus",
+      "species": "Electrophorus electricus"
     }
   },
   {
@@ -1144,6 +1978,15 @@
       "author": "Elias Levy",
       "source": "https://commons.wikimedia.org/wiki/File:Giant_oceanic_manta_ray_with_diver.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Mobula",
+      "species": "Mobula birostris"
     }
   },
   {
@@ -1156,6 +1999,15 @@
       "author": "Holger Krisp",
       "source": "https://commons.wikimedia.org/wiki/File:Paracanthurus-hepatus-paletten-doktorfisch.jpg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Acanthuridae",
+      "genus": "Paracanthurus",
+      "species": "Paracanthurus hepatus"
     }
   },
   {
@@ -1168,6 +2020,15 @@
       "author": "Chad King",
       "source": "https://commons.wikimedia.org/wiki/File:Anarrhichthys_ocellatus.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Anarhichadidae",
+      "genus": "Anarrhichthys",
+      "species": "Anarrhichthys ocellatus"
     }
   },
   {
@@ -1180,6 +2041,15 @@
       "author": "Judy Gallagher",
       "source": "https://commons.wikimedia.org/wiki/File:Harpy_Eagle_-_Harpia_harpyja,_Belize_Zoo,_Belize.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Harpia",
+      "species": "Harpia harpyja"
     }
   },
   {
@@ -1192,6 +2062,15 @@
       "author": "Charles J. Sharp ",
       "source": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Psittaciformes",
+      "family": "Psittacidae",
+      "genus": "Ara",
+      "species": "Ara macao"
     }
   },
   {
@@ -1204,6 +2083,15 @@
       "author": "Bernard Dupont",
       "source": "https://commons.wikimedia.org/wiki/File:Bateleur_(Terathopius_ecaudatus)_male_..._-_54493360573.jpg",
       "license": "CC BY-SA 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Terathopius",
+      "species": "Terathopius ecaudatus"
     }
   },
   {
@@ -1216,6 +2104,15 @@
       "author": "Richard Bart",
       "source": "https://commons.wikimedia.org/wiki/File:White_Stork_Wei%C3%9Fstorch_Ciconia_ciconia.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Ciconiidae",
+      "genus": "Ciconia",
+      "species": "Ciconia ciconia"
     }
   },
   {
@@ -1228,6 +2125,15 @@
       "author": "Andreas Trepte",
       "source": "https://commons.wikimedia.org/wiki/File:Schopfkarakara.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Falconiformes",
+      "family": "Falconidae",
+      "genus": "Caracara",
+      "species": "Caracara plancus"
     }
   },
   {
@@ -1240,6 +2146,15 @@
       "author": "Hans Hillewaert",
       "source": "https://commons.wikimedia.org/wiki/File:Aix_galericulata_(male).jpg",
       "license": "©"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Aix",
+      "species": "Aix galericulata"
     }
   },
   {
@@ -1252,6 +2167,15 @@
       "author": "Anthony Batista",
       "source": "https://commons.wikimedia.org/wiki/File:Sarcoramphus_papa_441774682.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Cathartidae",
+      "genus": "Sarcoramphus",
+      "species": "Sarcoramphus papa"
     }
   },
   {
@@ -1264,6 +2188,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Galliformes",
+      "family": "Phasianidae",
+      "genus": "Pavo",
+      "species": "Pavo cristatus"
     }
   },
   {
@@ -1276,6 +2209,15 @@
       "author": "James St. John",
       "source": "https://commons.wikimedia.org/wiki/File:Chrysolophus_pictus_(golden_pheasant).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Galliformes",
+      "family": "Phasianidae",
+      "genus": "Chrysolophus",
+      "species": "Chrysolophus pictus"
     }
   },
   {
@@ -1288,6 +2230,15 @@
       "author": "Jim Kuhn",
       "source": "https://commons.wikimedia.org/wiki/File:Double-Wattled_Cassowary_(Casuarius_bicarunculatus).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Casuariiformes",
+      "family": "Casuariidae",
+      "genus": "Casuarius",
+      "species": "Casuarius casuarius"
     }
   },
   {
@@ -1300,6 +2251,15 @@
       "author": "Richard Bartz",
       "source": "https://commons.wikimedia.org/wiki/File:Bartgeier_Gypaetus_barbatus_front_Richard_Bartz.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Gypaetus",
+      "species": "Gypaetus barbatus"
     }
   },
   {
@@ -1312,6 +2272,15 @@
       "author": "Josh Olander",
       "source": "https://commons.wikimedia.org/wiki/File:AZ_Gila_Monster_01.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Helodermatidae",
+      "genus": "Heloderma",
+      "species": "Heloderma suspectum"
     }
   },
   {
@@ -1324,6 +2293,15 @@
       "author": "Simon_sees",
       "source": "https://commons.wikimedia.org/wiki/File:Eastern_blue-tongued_lizard_-_Tiliqua_scincoides_scincoides_-_6.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Scincidae",
+      "genus": "Tiliqua",
+      "species": "Tiliqua scincoides"
     }
   },
   {
@@ -1336,6 +2314,15 @@
       "author": "Christophe German",
       "source": "https://commons.wikimedia.org/wiki/File:Furcifer_pardalis_002.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Chamaeleonidae",
+      "genus": "Furcifer",
+      "species": "Furcifer pardalis"
     }
   },
   {
@@ -1348,6 +2335,15 @@
       "author": "James St. John",
       "source": "https://commons.wikimedia.org/wiki/File:Python_regius_(Balla_python).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Pythonidae",
+      "genus": "Python",
+      "species": "Python regius"
     }
   },
   {
@@ -1360,6 +2356,15 @@
       "author": "FakirNL",
       "source": "https://commons.wikimedia.org/wiki/File:Python_bivittatus_in_Ouwehands_Dierenpark_01.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Pythonidae",
+      "genus": "Python",
+      "species": "Python bivittatus"
     }
   },
   {
@@ -1372,6 +2377,15 @@
       "author": "Haplochromis",
       "source": "https://commons.wikimedia.org/wiki/File:Lampropeltis_getula_californiae.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "genus": "Lampropeltis",
+      "species": "Lampropeltis californiae"
     }
   },
   {
@@ -1384,6 +2398,15 @@
       "author": "Dr. Raju Kasambe",
       "source": "https://commons.wikimedia.org/wiki/File:Indian_Cobra_Naja_naja_by_Dr_Raju_Kasambe_DSCN4991_(17).jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Elapidae",
+      "genus": "Naja",
+      "species": "Naja naja"
     }
   },
   {
@@ -1396,6 +2419,15 @@
       "author": "Wilson44691",
       "source": "https://commons.wikimedia.org/wiki/File:Thamnophis_sirtalis_sirtalis_Wooster.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "genus": "Thamnophis",
+      "species": "Thamnophis sirtalis"
     }
   },
   {
@@ -1408,6 +2440,15 @@
       "author": "Glynn Morris",
       "source": "https://commons.wikimedia.org/wiki/File:Eunectes_murinus_4698322.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Boidae",
+      "genus": "Eunectes",
+      "species": "Eunectes murinus"
     }
   },
   {
@@ -1420,6 +2461,15 @@
       "author": "Patrick Coin",
       "source": "https://commons.wikimedia.org/wiki/File:Notophthalmus_viridescensPCCA20040816-3983A.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Caudata",
+      "family": "Salamandridae",
+      "genus": "Notophthalmus",
+      "species": "Notophthalmus viridescens"
     }
   },
   {
@@ -1432,6 +2482,15 @@
       "author": "USFWS Mountain Prairie",
       "source": "https://commons.wikimedia.org/wiki/File:Tiger_Salamander_(Ambystoma_tigrinum).jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Caudata",
+      "family": "Ambystomatidae",
+      "genus": "Ambystoma",
+      "species": "Ambystoma tigrinum"
     }
   },
   {
@@ -1444,6 +2503,15 @@
       "author": "Charles J. Sharp",
       "source": "https://commons.wikimedia.org/wiki/File:Cane_toad_(Rhinella_marina)_Taveuni.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Bufonidae",
+      "genus": "Rhinella",
+      "species": "Rhinella marina"
     }
   },
   {
@@ -1456,6 +2524,15 @@
       "author": "Petr Hamernik",
       "source": "https://commons.wikimedia.org/wiki/File:Velemlok_%C4%8D%C3%ADnsk%C3%BD_zoo_praha_1.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Caudata",
+      "family": "Cryptobranchidae",
+      "genus": "Andrias",
+      "species": "Andrias davidianus"
     }
   },
   {
@@ -1468,6 +2545,15 @@
       "author": "H. Zell",
       "source": "https://commons.wikimedia.org/wiki/File:Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Characiformes",
+      "family": "Serrasalmidae",
+      "genus": "Pygocentrus",
+      "species": "Pygocentrus nattereri"
     }
   },
   {
@@ -1480,6 +2566,15 @@
       "author": "NasserHalaweh",
       "source": "https://commons.wikimedia.org/wiki/File:Stegostomatidae_Stegostoma_fasciatum_1.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Orectolobiformes",
+      "family": "Stegostomatidae",
+      "genus": "Stegostoma",
+      "species": "Stegostoma fasciatum"
     }
   },
   {
@@ -1492,6 +2587,15 @@
       "author": "Karlj",
       "source": "https://commons.wikimedia.org/wiki/File:Sphyraena_barracuda_1.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena barracuda"
     }
   },
   {
@@ -1504,6 +2608,15 @@
       "author": "Fisheries Service NOAA",
       "source": "https://commons.wikimedia.org/wiki/File:Thunnus_thynnus_2.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus thynnus"
     }
   },
   {
@@ -1516,6 +2629,15 @@
       "author": "shankar s. from sharjah, UAE",
       "source": "https://commons.wikimedia.org/wiki/File:Moray_Eel_(16257889549).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Muraena",
+      "species": "Helena"
     }
   },
   {
@@ -1528,6 +2650,15 @@
       "author": "richard_clyborne",
       "source": "https://commons.wikimedia.org/wiki/File:Baby_Stingray_in_Fish_Aquarium.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Dasyatidae",
+      "genus": "Dasyatis",
+      "species": "Pastinaca"
     }
   },
   {
@@ -1540,6 +2671,15 @@
       "author": "Werner",
       "source": "https://commons.wikimedia.org/wiki/File:Xiphias_gladius2.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Perciformes",
+      "family": "Xiphiidae",
+      "genus": "Xiphias",
+      "species": "Xiphias gladius"
     }
   },
   {
@@ -1552,6 +2692,15 @@
       "author": "Mark Conlin",
       "source": "https://commons.wikimedia.org/wiki/File:Isurus_oxyrinchus_by_mark_conlin.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Isurus",
+      "species": "Isurus oxyrinchus"
     }
   },
   {
@@ -1564,6 +2713,15 @@
       "author": "Christian Mehlführer",
       "source": "https://commons.wikimedia.org/wiki/File:MC_Rotfeuerfisch.jpg",
       "license": "CC BY 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Scorpaeniformes",
+      "family": "Scorpaenidae",
+      "genus": "Pterois",
+      "species": "Volitans"
     }
   },
   {
@@ -1576,6 +2734,15 @@
       "author": "NASA",
       "source": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg",
       "license": "Public Domain"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Tursiops",
+      "species": "Tursiops truncatus"
     }
   },
   {
@@ -1588,6 +2755,15 @@
       "author": "пресс-служба ПАО \"Газпром нефть\" ",
       "source": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Monodontidae",
+      "genus": "Monodon",
+      "species": "Monodon monoceros"
     }
   },
   {
@@ -1600,6 +2776,15 @@
       "author": "https://www.flickr.com/photos/iwona_kellie/",
       "source": "https://commons.wikimedia.org/wiki/File:Delphinapterus_leucas_16.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Monodontidae",
+      "genus": "Delphinapterus",
+      "species": "Delphinapterus leucas"
     }
   },
   {
@@ -1612,6 +2797,15 @@
       "author": "Michael L. Baird",
       "source": "https://commons.wikimedia.org/wiki/File:Sea_otter_cropped.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Mustelidae",
+      "genus": "Enhydra",
+      "species": "Enhydra lutris"
     }
   },
   {
@@ -1624,6 +2818,15 @@
       "author": "Ghofar Ismail Putra",
       "source": "https://commons.wikimedia.org/wiki/File:Penyu_Belimbing_(Dermochelys_coriacea).jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Dermochelyidae",
+      "genus": "Dermochelys",
+      "species": "coriacea"
     }
   },
   {
@@ -1636,6 +2839,15 @@
       "author": "RAF-YYC from Calgary, CA",
       "source": "https://commons.wikimedia.org/wiki/File:Chelonoidis_nigra.jpg",
       "license": "CC BY-SA 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Testudinidae",
+      "genus": "Chelonoidis",
+      "species": "Chelonoidis niger"
     }
   },
   {
@@ -1648,6 +2860,15 @@
       "author": "H. Zell",
       "source": "https://commons.wikimedia.org/wiki/File:Crocodylus_porosus_-_Wilhelma.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodylia",
+      "family": "Crocodylidae",
+      "genus": "Crocodylus",
+      "species": "Crocodylus porosus"
     }
   },
   {
@@ -1660,6 +2881,15 @@
       "author": "Terry Goss",
       "source": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Carcharodon",
+      "species": "Carcharodon carcharias"
     }
   },
   {
@@ -1672,6 +2902,15 @@
       "author": "Derek Keats from Johannesburg, South Africa",
       "source": "https://commons.wikimedia.org/wiki/File:Whale_shark,_Rhincodon_typus,_at_Daedalus_in_the_Egyptian_Red_Sea._(35827412321).jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Orectolobiformes",
+      "family": "Rhincodontidae",
+      "genus": "Rhincodon",
+      "species": "Rhincodon typus"
     }
   },
   {
@@ -1684,6 +2923,15 @@
       "author": "H. Zell",
       "source": "https://commons.wikimedia.org/wiki/File:Balistoides_conspicillum_01.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Balistoides",
+      "species": "Balistoides conspicillum"
     }
   },
   {
@@ -1696,6 +2944,15 @@
       "author": "D. Shale",
       "source": "https://commons.wikimedia.org/wiki/File:Caulophryne_pelagica.jpg",
       "license": "CC BY 2.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Lophiiformes",
+      "family": "Melanocetidae",
+      "genus": "Melanocetus",
+      "species": "murrayi"
     }
   },
   {
@@ -1708,6 +2965,15 @@
       "author": "Thomas Bresson",
       "source": "https://commons.wikimedia.org/wiki/File:Morpho_peleides_2.jpg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Nymphalidae",
+      "genus": "Morpho",
+      "species": "Morpho peleides"
     }
   },
   {
@@ -1720,6 +2986,15 @@
       "author": "Qtl1",
       "source": "https://commons.wikimedia.org/wiki/File:Attacus_atlas_qtl3.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Saturniidae",
+      "genus": "Attacus",
+      "species": "Attacus atlas"
     }
   },
   {
@@ -1732,6 +3007,15 @@
       "author": "Bjørn Christian Tørrissen",
       "source": "https://commons.wikimedia.org/wiki/File:Archispirostreptus-Gigas-Amphitheatre.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Diplopoda",
+      "order": "Spirostreptida",
+      "family": "Spirostreptidae",
+      "genus": "Archispirostreptus",
+      "species": "Archispirostreptus gigas"
     }
   },
   {
@@ -1744,6 +3028,15 @@
       "author": "Lycaon (Hans Hillewaert)",
       "source": "https://commons.wikimedia.org/wiki/File:Macrocheira_kaempferi.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Macrocheiridae",
+      "genus": "Macrocheira",
+      "species": "Macrocheira kaempferi"
     }
   },
   {
@@ -1756,6 +3049,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ailuropoda",
+      "species": "Ailuropoda melanoleuca"
     }
   },
   {
@@ -1768,6 +3070,15 @@
       "author": "Charles J. Sharp",
       "source": "https://commons.wikimedia.org/wiki/File:Snow_leopard_(Panthera_uncia)_female_2.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Uncia",
+      "species": "Uncia uncia"
     }
   },
   {
@@ -1780,6 +3091,15 @@
       "author": "Ikiwaner",
       "source": "https://commons.wikimedia.org/wiki/File:Ngorongoro_Spitzmaulnashorn.jpg",
       "license": "GFDL 1.2"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Perissodactyla",
+      "family": "Rhinocerotidae",
+      "genus": "Diceros",
+      "species": "Diceros bicornis"
     }
   },
   {
@@ -1792,6 +3112,15 @@
       "author": "Diego Delso",
       "source": "https://commons.wikimedia.org/wiki/File:Tortuga_carey_(Eretmochelys_imbricata),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_56.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Eretmochelys",
+      "species": "Eretmochelys imbricata"
     }
   },
   {
@@ -1804,6 +3133,15 @@
       "author": "Monka Betley",
       "source": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_sumatran_subspecies.jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "species": "Panthera tigris"
     }
   },
   {
@@ -1816,6 +3154,15 @@
       "author": "Mathias Appel",
       "source": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg",
       "license": "CC0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ailuridae",
+      "genus": "Ailurus",
+      "species": "Ailurus fulgens"
     }
   },
   {
@@ -1828,6 +3175,15 @@
       "author": "Jean-Paul Boerekamps",
       "source": "https://commons.wikimedia.org/wiki/File:Loxodonta_cyclotis_110278379.jpg",
       "license": "CC0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "species": "Loxodonta cyclotis"
     }
   },
   {
@@ -1840,6 +3196,15 @@
       "author": "Giles Laurent",
       "source": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Chelonia",
+      "species": "Chelonia mydas"
     }
   },
   {
@@ -1852,6 +3217,15 @@
       "author": "DataBase Center for Life Science (DBCLS)",
       "source": "https://commons.wikimedia.org/wiki/File:202501_Blue_whale.svg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "species": "Balaenoptera musculus"
     }
   },
   {
@@ -1864,9 +3238,17 @@
       "author": "Diego Delso",
       "source": "https://commons.wikimedia.org/wiki/File:Gorila_de_monta%C3%B1a_(Gorilla_beringei_beringei),_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi,_Uganda,_2024-02-02,_DD_04.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Hominidae",
+      "genus": "Gorilla",
+      "species": "Gorilla beringei"
     }
   },
-
   {
     "name": "Saola",
     "scientific_name": "Pseudoryx nghetinhensis",
@@ -1877,6 +3259,15 @@
       "author": "Silviculture at Vietnamese Wikipedia",
       "source": "https://commons.wikimedia.org/wiki/File:Pseudoryx_nghetinhensis,_b.PNG",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "genus": "Pseudoryx",
+      "species": "Pseudoryx nghetinhensis"
     }
   },
   {
@@ -1889,6 +3280,15 @@
       "author": "Photo by Derek Ramsey (Ram-Man)",
       "source": "https://commons.wikimedia.org/wiki/File:Amur_Leopard_Panthera_pardus_orientalis_Facing_Forward_1761px.jpg",
       "license": "CC BY-SA 2.5"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "species": "Panthera pardus"
     }
   },
   {
@@ -1901,6 +3301,15 @@
       "author": "Thomas Fuhrmann",
       "source": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_07.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Hominidae",
+      "genus": "Pongo",
+      "species": "Pongo pygmaeus"
     }
   },
   {
@@ -1913,6 +3322,15 @@
       "author": "Huangdan2060",
       "source": "https://commons.wikimedia.org/wiki/File:Yangtze_finless_porpoise,_10_November_2006.jpg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Phocoenidae",
+      "genus": "Neophocaena",
+      "species": "Neophocaena asiaeorientalis"
     }
   },
   {
@@ -1925,9 +3343,17 @@
       "author": "Aimee Valencia",
       "source": "https://commons.wikimedia.org/wiki/File:Pamarayeg_IIIx2.jpg",
       "license": "CC BY 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Pithecophaga",
+      "species": "Pithecophaga jefferyi"
     }
   },
-
   {
     "name": "Vaquita",
     "scientific_name": "Phocoena sinus",
@@ -1938,6 +3364,15 @@
       "author": "좀비 브렌다",
       "source": "https://commons.wikimedia.org/wiki/File:Vaquita_swimming_through_the_void._(Phocoena_Sinus)_2.png",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Phocoenidae",
+      "genus": "Phocoena",
+      "species": "Phocoena sinus"
     }
   },
   {
@@ -1950,6 +3385,15 @@
       "author": "Scott Nelson",
       "source": "https://commons.wikimedia.org/wiki/File:Lesser_One_Horned_Rhinoceros_Rhinoceros_Sondaicus_(53549614).jpeg",
       "license": "CC BY 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Perissodactyla",
+      "family": "Rhinocerotidae",
+      "genus": "Rhinoceros",
+      "species": "Rhinoceros sondaicus"
     }
   },
   {
@@ -1962,6 +3406,15 @@
       "author": "Charles J. Sharp",
       "source": "https://commons.wikimedia.org/wiki/File:African_wild_dog_(Lycaon_pictus_pictus).jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Lycaon",
+      "species": "Lycaon pictus"
     }
   },
   {
@@ -1974,6 +3427,15 @@
       "author": "HaytemBouchri93",
       "source": "https://commons.wikimedia.org/wiki/File:A_big_male_Addax_showing_as_the_power_of_his_horns.jpg",
       "license": "CC BY-SA 4.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "genus": "Addax",
+      "species": "Addax nasomaculatus"
     }
   },
   {
@@ -1986,6 +3448,15 @@
       "author": "Yathin S Krishnappa",
       "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg",
       "license": "CC BY-SA 3.0"
+    },
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "species": "Elephas maximus"
     }
   }
 ]
